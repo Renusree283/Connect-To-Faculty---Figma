@@ -1,1 +1,1 @@
-# Connect-To-Faculty---Figma
+Connect to Faculty is a web-based Faculty-Student Communication System designed to streamline academic interactions and bridge the communication gap between students and faculty. It offers real-time access to faculty availability, schedules, and announcements. Students can view office hours, send inquiries, and receive timely responses. Faculty can manage schedules, post updates, and handle queries efficiently. This tool promotes better communication, transparency, and collaboration in an academic setting.
